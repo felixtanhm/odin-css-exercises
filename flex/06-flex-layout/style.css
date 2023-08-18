@@ -65,7 +65,6 @@ a {
 .content {
   display: flex;
   flex-direction: column;
-  flex-basis: 200px;
   justify-content: center;
   align-items: center;
   gap: 16px;
